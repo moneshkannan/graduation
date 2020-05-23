@@ -1,7 +1,7 @@
 ---
-name: Monesh Kannan # No longer than 18 characters
-institution: Sri Krishna College of Technology  # no longer than 58 characters
-profile_pic: moneshkannan.jpg # Name and extension of your profile picture(ex. mona.png)
-quote: Life is Full of Adventure # no longer than 100 characters
+name: Monesh Kannan
+institution: Sri Krishna College of Technology
+profile_pic: moneshkannan.jpg
+quote: Life is Full of Adventure
 github_user: moneshkannan
 ---
